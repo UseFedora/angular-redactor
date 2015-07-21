@@ -287,7 +287,7 @@ RedactorPlugins.filepicker = function() {
 
     },
     insert: function(object) {
-      html = "<img src='" + object[0].url + "'>"
+      html = "<img class='img-responsive' src='" + object[0].url + "'>"
       this.insert.html(html);
 
       this.code.sync();

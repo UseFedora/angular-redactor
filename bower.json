@@ -1,7 +1,7 @@
 {
   "name": "angular-redactor-filepicker",
   "main": "angular-redactor-filepicker.js",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "homepage": "https://github.com/UseFedora/angular-redactor",
   "authors": [
     "Tyler Garlick <tjgarlick@gmail.com>",

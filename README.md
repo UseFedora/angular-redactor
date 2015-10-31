@@ -1,6 +1,6 @@
 angular-redactor-filepicker
 ================
-Fole of angular-redactor with filepicker support
+Fork of angular-redactor with filepicker support
 Angular Redactor is an angular directive for the Redactor editor.  http://imperavi.com/redactor/
 
 
